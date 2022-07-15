@@ -1,0 +1,17 @@
+root: true
+
+env:
+  browser: true
+  node: true
+
+rules:
+  max-len:
+    - 2
+    - 119
+    - 2
+
+settings:
+  next:
+    rootDir:
+      - frontend/
+      - integration/cdk

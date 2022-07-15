@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.git-extension-pack",
+    "mhutchie.git-graph",
+    "orta.vscode-jest",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "humao.rest-client",
+    "timonwong.shellcheck",
+    "wayou.vscode-todo-highlight",
+    "shardulm94.trailing-spaces",
+    "redhat.vscode-yaml"
+  ]
+}
